@@ -1,4 +1,4 @@
-# maxflow_example_thesis
+# maxflow_example_thesis_bai
 
 Matlab codes that implement an examples in Bai (2013)'s Ph.D dissertation. 
 
